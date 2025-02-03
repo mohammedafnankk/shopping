@@ -67,7 +67,9 @@ function MainNavbar() {
                 {" "}
                 <i class="fa-solid fa-user-plus pr-[5px]"></i>Sign Up
               </button>
+              <a href="https://github.com/mohammedafnankk/shopping">
               <i class="fa-brands fa-github text-white text-[25px] bg-black max-xl:hidden py-[6px] px-[6px] border-solid border-[1.5px] border-[#262626] rounded-[8px] "></i>
+              </a>
             </div>
           </div>
         </div>

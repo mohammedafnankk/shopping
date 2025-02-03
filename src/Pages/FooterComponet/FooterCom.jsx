@@ -106,7 +106,9 @@ function FooterCom() {
         <p className="text-xs">
           Designed by me <i class="fa-solid fa-heart text-[#703BF7]"></i>
         </p>
+        <a href="https://github.com/mohammedafnankk/shopping">
         <i class="fa-brands fa-github"></i>
+        </a>
       </div>
     </div>
   );
